@@ -14,7 +14,7 @@ This repository contains the **sanitized version** of the instruction file with 
 
 ## The Problem
 
-The marketing analytics team needed answers from an 11-table data warehouse spanning user behavior, orders, vouchers, traffic, and seller data. The pain points:
+The marketing analytics team needed answers from data warehouse spanning user behavior, orders, vouchers, traffic, and seller data. The pain points:
 
 - **Metric ambiguity** — terms like "active users", "orders", and "conversion rate" had multiple valid interpretations depending on context
 - **Silent errors** — wrong joins, missing filters, and incorrect aggregation methods produced plausible-looking but wrong numbers with no warning
