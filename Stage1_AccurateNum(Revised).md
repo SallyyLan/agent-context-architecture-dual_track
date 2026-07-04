@@ -1,4 +1,4 @@
-# [Agent] — Stage1: Dual-Track
+# [Agent Context Architecture] — Dual-Track
 > Workflow Philosophy: Decompose the question AND ground the data simultaneously → merge → compute
 
 ---
